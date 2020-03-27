@@ -1,0 +1,9 @@
+C:\Users\JJ\Documents\Lucas Pacheco\Trabalhos Faculdade\Calculadora Faculdade\Calculadora Faculdade\bin\Debug\Calculadora Faculdade.exe.config
+C:\Users\JJ\Documents\Lucas Pacheco\Trabalhos Faculdade\Calculadora Faculdade\Calculadora Faculdade\bin\Debug\Calculadora Faculdade.exe
+C:\Users\JJ\Documents\Lucas Pacheco\Trabalhos Faculdade\Calculadora Faculdade\Calculadora Faculdade\bin\Debug\Calculadora Faculdade.pdb
+C:\Users\JJ\Documents\Lucas Pacheco\Trabalhos Faculdade\Calculadora Faculdade\Calculadora Faculdade\obj\Debug\Calculadora Faculdade.csprojAssemblyReference.cache
+C:\Users\JJ\Documents\Lucas Pacheco\Trabalhos Faculdade\Calculadora Faculdade\Calculadora Faculdade\obj\Debug\Calculadora_Faculdade.Form1.resources
+C:\Users\JJ\Documents\Lucas Pacheco\Trabalhos Faculdade\Calculadora Faculdade\Calculadora Faculdade\obj\Debug\Calculadora_Faculdade.Properties.Resources.resources
+C:\Users\JJ\Documents\Lucas Pacheco\Trabalhos Faculdade\Calculadora Faculdade\Calculadora Faculdade\obj\Debug\Calculadora Faculdade.csproj.GenerateResource.cache
+C:\Users\JJ\Documents\Lucas Pacheco\Trabalhos Faculdade\Calculadora Faculdade\Calculadora Faculdade\obj\Debug\Calculadora Faculdade.exe
+C:\Users\JJ\Documents\Lucas Pacheco\Trabalhos Faculdade\Calculadora Faculdade\Calculadora Faculdade\obj\Debug\Calculadora Faculdade.pdb
